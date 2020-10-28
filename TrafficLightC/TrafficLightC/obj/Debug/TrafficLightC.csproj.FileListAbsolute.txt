@@ -1,0 +1,10 @@
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\bin\Debug\TrafficLightC.exe.config
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\bin\Debug\TrafficLightC.exe
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\bin\Debug\TrafficLightC.pdb
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\obj\Debug\TrafficLightC.csprojAssemblyReference.cache
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\obj\Debug\TrafficLightC.Properties.Resources.resources
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\obj\Debug\TrafficLightC.csproj.GenerateResource.cache
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\obj\Debug\TrafficLightC.csproj.CoreCompileInputs.cache
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\obj\Debug\TrafficLightC.exe
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\obj\Debug\TrafficLightC.pdb
+H:\Kuliah\SMT 5\Jaringan\TrafficLightC\TrafficLightC\TrafficLightC\obj\Debug\TrafficLightC.TrafficLightC.resources
