@@ -12,7 +12,5 @@ namespace TrafficLightC
         public static int port;
         public static string terimapesandariserver;
         public static string terimapesandiserver= " ";
-        //public static string[] command;
-        //public static string[] bulb = { "Merah,Mati", "Kuning,Mati", "Hijau,Mati" };
     }
 }

@@ -105,7 +105,7 @@ namespace TrafficLightC
             {
                 varGlobal.alamatIPServer = txtIPClient.Text;
                 varGlobal.port = Int16.Parse(txtPortClient.Text);
-                SocketTCP.StartClient("Hijau Mati" );
+                SocketTCP.StartClient("Hijau Mati ");
             }
         }
 
@@ -181,85 +181,5 @@ namespace TrafficLightC
                     return Color.Black;
             }
         }
-
-        /*private void lampChanger(string[] lampu)
-        {
-            if (lampu[0].Equals("Merah"))
-            {
-                if (lampu[1].Equals("Hidup"))
-                {
-                    panelMerah.BackColor = Color.Red;
-                }
-                else
-                    panelMerah.BackColor = Color.Black;
-            }
-
-            if (lampu[0].Equals("Kuning"))
-            {
-                if (lampu[1].Equals("Hidup"))
-                {
-                    panelKuning.BackColor = Color.Yellow;
-                }
-                else
-                    panelKuning.BackColor = Color.Black;
-            }
-
-            if (lampu[0].Equals("Hijau"))
-            {
-                if (lampu[1].Equals("Hidup"))
-                {
-                    panelHIjau.BackColor = Color.Green;
-                }
-                else
-                    panelHIjau.BackColor = Color.Black;
-            }
-
-            if(lampu[0].Equals(" ") && lampu[1].Equals(" "))
-            {
-                txtWarna.Text = "Semua Lampu Mati";
-                panelMerah.BackColor = Color.Black;
-                panelKuning.BackColor = Color.Black;
-                panelHIjau.BackColor = Color.Black;
-            }
-
-        }*/
-
-        /*private void lamps()
-        {
-            String[] red = varGlobal.bulb[0].Split(',');
-            String[] yellow = varGlobal.bulb[1].Split(',');
-            String[] green = varGlobal.bulb[2].Split(',');
-
-            if (red[1].Equals("Nyala"))
-            {
-                panelMerah.BackColor = Color.Red;
-            }
-            else
-            {
-                panelMerah.BackColor = Color.Black;
-            }
-            if (yellow[1].Equals("Nyala"))
-            {
-                panelKuning.BackColor = Color.Yellow;
-            }
-            else
-            {
-                panelKuning.BackColor = Color.Black;
-            }
-            if (green[1].Equals("Nyala"))
-            {
-                panelHIjau.BackColor = Color.Green;
-            }
-            else
-            {
-                panelHIjau.BackColor = Color.Black;
-            }
-        }
-
-        /*private void lampChanger(string command, short pos)
-        {
-            varGlobal.bulb[pos] = command;
-        }*/
-
     }
 }

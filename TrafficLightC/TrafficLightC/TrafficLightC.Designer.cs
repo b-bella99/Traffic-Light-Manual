@@ -323,7 +323,7 @@
             // 
             // panelHIjau
             // 
-            this.panelHIjau.BackColor = System.Drawing.Color.White;
+            this.panelHIjau.BackColor = System.Drawing.Color.Black;
             this.panelHIjau.Location = new System.Drawing.Point(342, 140);
             this.panelHIjau.Name = "panelHIjau";
             this.panelHIjau.Size = new System.Drawing.Size(101, 94);
@@ -331,7 +331,7 @@
             // 
             // panelKuning
             // 
-            this.panelKuning.BackColor = System.Drawing.Color.White;
+            this.panelKuning.BackColor = System.Drawing.Color.Black;
             this.panelKuning.Location = new System.Drawing.Point(203, 140);
             this.panelKuning.Name = "panelKuning";
             this.panelKuning.Size = new System.Drawing.Size(101, 94);
@@ -339,7 +339,7 @@
             // 
             // panelMerah
             // 
-            this.panelMerah.BackColor = System.Drawing.Color.White;
+            this.panelMerah.BackColor = System.Drawing.Color.Black;
             this.panelMerah.Location = new System.Drawing.Point(66, 140);
             this.panelMerah.Name = "panelMerah";
             this.panelMerah.Size = new System.Drawing.Size(101, 94);
